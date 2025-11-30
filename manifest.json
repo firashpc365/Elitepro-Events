@@ -1,0 +1,9 @@
+{
+  "short_name": "Kanchana Hub",
+  "name": "Kanchana Events Hub",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a",
+  "description": "An intelligent event management application that uses the Gemini API to analyze images, provide fast suggestions, and generate detailed event proposals."
+}
